@@ -1,6 +1,6 @@
-# 3D models from geological maps
+# 3D models for geological maps
 
-Welcome. In this repository you will find a group of geologic maps that we have converted into 3D geological models using the geo-modelling tool GemPy (https://www.gempy.org). 
+Bienvenido. In this repository you'll find a group of geologic maps that we have converted into 3D geological models using the geo-modelling tool GemPy (https://www.gempy.org). 
 
 # Clone the repository
 
@@ -63,4 +63,4 @@ Run the cell. If the installation is fine, there shouldn't be any errors.
 
 # Contact
 
-If any questions, please contact us at m.coffey@stud.uis.no or nestor.cardozo@uis.no
+twitter.com/NoriOdachi
